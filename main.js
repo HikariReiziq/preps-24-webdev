@@ -1,5 +1,5 @@
 // pada string 'Nama Kamu' sesuaikan nama asli kamu ya 😊
-const title = document.title = `CV - ${'Nama Kamu'}`;
+const title = document.title = `CV - ${'M. Hikari Reiziq Rakhmadinta'}`;
 
 
 
